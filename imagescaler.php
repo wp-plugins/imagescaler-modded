@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: ImageScaler Modded
-Plugin URI: http://nguyenthanhcong.com/2007/11/16/imagescaler-modded-version/
+Plugin URI: http://nguyenthanhcong.com/imagescaler-modded-version/
 Description: Properly resamples images resized in the post editor
 Author: Funnnny
 Version: 1.0

@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Funnnny
+Contributors: Fu4ny
 Tags: images, resize
 Requires at least: 2.0
 Tested up to: 2.3.1
